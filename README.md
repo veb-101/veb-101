@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Profile View Count](https://komarev.com/ghpvc/?username=veb-101&color=green)
+
+
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=veb-101&show_icons=true&count_private=true&theme=ayu-mirage&custom_title=Vaibhav's%20Github%20Stats)](https://github.com/veb-101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&theme=ayu-mirage)](https://github.com/ygit)
+
 <!--
 **veb-101/veb-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
