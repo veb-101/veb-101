@@ -3,7 +3,7 @@
 ![Profile View Count](https://komarev.com/ghpvc/?username=veb-101&color=green)
 
 
-[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=veb-101&show_icons=true&count_private=true&theme=ayu-mirage&custom_title=Vaibhav's%20Github%20Stats)](https://github.com/veb-101)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=veb-101&show_icons=true&count_private=true&theme=ayu-mirage&custom_title=Vaibhav's%20Github%20Stats)](https://github.com/veb-101)
 
 My blog posts:
 1. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
