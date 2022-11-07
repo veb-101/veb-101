@@ -18,13 +18,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&layout=compact&theme=light"/>
 
-<br><br>
+---
 
 **🧾Latest blog posts:**
 1. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 2. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
 3. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
 4. Working on:  ***YoloR - You Only Learn One Representation: Unified Network for Multiple Tasks***
+
 
 **😶😌 Dose of bad jokes** <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
