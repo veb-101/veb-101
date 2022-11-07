@@ -10,6 +10,8 @@
   </tr>
 </table>
 
+![Motto](./starwarsday.gif)
+
 ## 🔭 I’m currently working on
 
 * Blog writing: *YoloR - You Only Learn One Representation*
@@ -40,6 +42,7 @@
 ---
 
 ## 😶😌 Dose of bad jokes
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
