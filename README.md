@@ -14,7 +14,7 @@
 
 ## 🔭 I’m currently working on
 
-* Blog writing: *YoloR - You Only Learn One Representation*
+* Blog: *YoloR - You Only Learn One Representation*
 * Building: *[Attention mechanism and Transformer models](https://github.com/veb-101/Attention-and-Transformers)*
 
 ## 🌱 I’m currently learning
