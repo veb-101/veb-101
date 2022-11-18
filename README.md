@@ -16,6 +16,7 @@
 
 * Blog: *YoloR - You Only Learn One Representation*
 * Building: *[Attention mechanism and Transformer models](https://github.com/veb-101/Attention-and-Transformers)*
+    * `pip install Attention_and_Transformers`
 
 ## 🌱 I’m currently learning
 
