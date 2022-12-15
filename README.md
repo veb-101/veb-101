@@ -14,7 +14,7 @@
 
 ## 🔭 I’m currently working on
 
-* Blog: *YoloR - You Only Learn One Representation*
+* Blog: *DeepLabv3 and DeepLabv3+*
 * Building: *[Attention mechanism and Transformer models](https://github.com/veb-101/Attention-and-Transformers)*
     * `pip install Attention_and_Transformers`
 
@@ -26,9 +26,10 @@
 
 ## 🧾Latest blog posts
 
-1. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
-2. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
-3. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+1. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
+2. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+3. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
+4. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 
 ## Github Stats
 
