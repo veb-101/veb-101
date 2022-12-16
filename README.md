@@ -39,8 +39,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=veb-101&count_private=true&show_icons=true&theme=light" alt="Vaibhav's github stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&layout=compact&theme=light"/>
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&layout=compact&theme=light"/>
+ -->
 ---
 
 ## 😶😌 Dose of bad jokes
