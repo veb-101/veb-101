@@ -20,7 +20,7 @@
 
 ## 🌱 I’m currently learning
 
-* *MobileViT-v2* ([preview](https://github.com/veb-101/Attention-and-Transformers/tree/main/Attention_and_Transformers/MobileViT_v2))
+* *MobileViT-v3* ([preview](https://github.com/veb-101/Attention-and-Transformers/tree/mobilevit_v3/Attention_and_Transformers/MobileViT_v3)
 * *Diffusion confusion*
 * *Distributed training in TensorFlow and PyTorch*
 
