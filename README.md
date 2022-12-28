@@ -14,22 +14,21 @@
 
 ## 🔭 I’m currently working on
 
-* Blog: *DeepLabv3 and DeepLabv3+*
 * Building: *[Attention mechanism and Transformer models](https://github.com/veb-101/Attention-and-Transformers)*
     * `pip install Attention_and_Transformers`
 
 ## 🌱 I’m currently learning
 
-* *MobileViT-v3* ([preview](https://github.com/veb-101/Attention-and-Transformers/tree/main/Attention_and_Transformers/MobileViT_v3))
-* *Diffusion confusion*
-* *Distributed training in TensorFlow and PyTorch*
+* **Diffusion confusion**
+* Distributed training in TensorFlow and PyTorch
 
 ## 🧾Latest blog posts
 
-1. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
-2. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
-3. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
-4. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
+1. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
+2. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
+3. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+4. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
+5. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 
 ## Github Stats
 
