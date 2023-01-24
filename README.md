@@ -16,11 +16,11 @@
 
 * Building: *[Attention mechanism and Transformer models](https://github.com/veb-101/Attention-and-Transformers)*
     * `pip install Attention_and_Transformers`
+* Writing **Denoising Diffusion Probabilistic Models** from scratch.
 
 ## 🌱 I’m currently learning
 
-* **Denoising Diffusion Probabilistic Models from Scratch**
-* Distributed training in TensorFlow and PyTorch
+* **Denoising Diffusion Probabilistic Models**
 
 ## 🧾Latest blog posts
 
