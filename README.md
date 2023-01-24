@@ -4,7 +4,7 @@
   <tr>
       <td><a href="https://github.com/veb-101"><img src="https://img.shields.io/github/followers/veb-101.svg?label=GitHub&style=social" alt="GitHub"></a></td>
       <td><a href="https://www.linkedin.com/in/vaibhavsingh98"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-      <td><a href="https://twitter.com/wolfcry3_0"><img src="https://img.shields.io/twitter/follow/wolfcry3_0?label=Twitter&style=social" alt="Twitter"></a></td>
+<!--       <td><a href="https://twitter.com/wolfcry3_0"><img src="https://img.shields.io/twitter/follow/wolfcry3_0?label=Twitter&style=social" alt="Twitter"></a></td> -->
       <td><img src="https://komarev.com/ghpvc/?username=veb-101" alt="devded" /></td>
       <td><a href="https://stackoverflow.com/users/6805747/vaibhav-singh"><img src="https://stackoverflow.com/users/flair/6805747.png?theme=dark" width="150" height="42" alt="profile for Vaibhav Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vaibhav Singh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></td>
   </tr>
