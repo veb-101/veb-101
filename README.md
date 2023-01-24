@@ -19,16 +19,17 @@
 
 ## 🌱 I’m currently learning
 
-* **Diffusion confusion**
+* **Denoising Diffusion Probabilistic Models from Scratch**
 * Distributed training in TensorFlow and PyTorch
 
 ## 🧾Latest blog posts
 
-1. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
-2. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
-3. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
-4. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
-5. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
+1. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
+2. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
+3. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
+4. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+5. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
+6. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 
 ## Github Stats
 
