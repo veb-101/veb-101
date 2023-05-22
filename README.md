@@ -23,13 +23,14 @@
  -->
 ## 🧾Latest blog posts
 
-1. [Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
-2. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
-3. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
-4. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
-5. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
-6. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
-7. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
+1. [Meet YOLO-NAS: New YOLO Object Detection Model Beats YOLOv6 & YOLOv8](https://learnopencv.com/yolo-nas/)
+2. [Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
+3. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
+4. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
+5. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
+6. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+7. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
+8. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 
 ## Github Stats
 
