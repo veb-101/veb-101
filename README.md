@@ -14,7 +14,7 @@
 
 ## 🔭 I’m currently working on
 
-* Building: *[keras-vision]([https://github.com/veb-101/Attention-and-Transformers](https://github.com/veb-101/keras-vision))*
+* Building: *[keras-vision](https://github.com/veb-101/keras-vision)*
     * `pip install keras-vision`
 
 <!-- ## 🌱 I’m currently learning
