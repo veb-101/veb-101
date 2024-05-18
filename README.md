@@ -23,16 +23,17 @@
  -->
 ## 🧾Latest blog posts
 
-1. [Medical Image Segmentation Using 🤗 HuggingFace & PyTorch](https://learnopencv.com/medical-image-segmentation/)
-2. [Enhancing Medical Multi-Label Image Classification Using PyTorch & Lightning](https://learnopencv.com/medical-multi-label/)
-3. [Meet YOLO-NAS: New YOLO Object Detection Model Beats YOLOv6 & YOLOv8](https://learnopencv.com/yolo-nas/)
-4. [Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
-5. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
-6. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
-7. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
-8. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
-9. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
-10. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
+1. [Building MobileViT Image Classification Model from Scratch In Keras 3](https://learnopencv.com/mobilevit-keras-3/)
+2. [Medical Image Segmentation Using 🤗 HuggingFace & PyTorch](https://learnopencv.com/medical-image-segmentation/)
+3. [Enhancing Medical Multi-Label Image Classification Using PyTorch & Lightning](https://learnopencv.com/medical-multi-label/)
+4. [Meet YOLO-NAS: New YOLO Object Detection Model Beats YOLOv6 & YOLOv8](https://learnopencv.com/yolo-nas/)
+5. [Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
+6. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
+7. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
+8. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
+9. [Driver Drowsiness Detection Using Mediapipe In Python](https://github.com/veb-101/Drowsiness-Detection-Using-Mediapipe-Streamlit)
+10. [Document Scanner using Semantic Segmentation Architecture DeepLabV3](https://github.com/veb-101/Document-Segmentation-using-Pytorch-DeepLabV3)
+11. [Facial Expression Recognition](https://veb-101.github.io/Facial-Expression-Recognition/)
 
 ## Github Stats
 
