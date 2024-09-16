@@ -14,7 +14,8 @@
 
 ## 🔭 I’m currently working on
 
-* Building: *[keras-vision](https://github.com/veb-101/keras-vision)*
+* Got sidetracked: learning `asyncio` (looks func)
+* Will be resumed shortly: Building: *[keras-vision](https://github.com/veb-101/keras-vision)*
     * `pip install keras-vision`
 
 <!-- ## 🌱 I’m currently learning
