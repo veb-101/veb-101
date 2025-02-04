@@ -14,14 +14,20 @@
 
 ## 🔭 I’m currently working on
 
-* Got sidetracked: learning `asyncio` (looks func)
-* Will be resumed shortly: Building: *[keras-vision](https://github.com/veb-101/keras-vision)*
+* Currently working on setting up the entire stack of OpenCV's 2025 robotics competition: <a href="https://bpc.opencv.org" target="_blank">Perception Challenge for Bin-picking</a>
+* Building: *[keras-vision](https://github.com/veb-101/keras-vision)*
     * `pip install keras-vision`
 
-<!-- ## 🌱 I’m currently learning
+## 🌱 I’m currently working on + learning
 
-* 
- -->
+Going elastic:
+* Elastic Kubernetes Service (EKS)
+* Elastic Container Service (ECS)
+* Elastic Container Registry (ECR)
+* SQS
+* Django
+
+
 ## 🧾Latest blog posts
 
 1. [Building MobileViT Image Classification Model from Scratch In Keras 3](https://learnopencv.com/mobilevit-keras-3/)
