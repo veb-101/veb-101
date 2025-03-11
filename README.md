@@ -44,14 +44,10 @@ Going elastic:
 
 ## Github Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=veb-101&theme=react-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veb-101">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veb-101&theme=merko)](https://github.com/veb-101/github-readme-activity-graph)
 
 <img src="https://github-readme-stats.vercel.app/api?username=veb-101&count_private=true&show_icons=true&theme=light" alt="Vaibhav's github stats"/>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&layout=compact&theme=light"/>
- -->
 ---
 
 ## 😶😌 Dose of bad jokes
