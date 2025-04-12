@@ -24,6 +24,7 @@ Going elastic:
 * Elastic Kubernetes Service (EKS)
 * Elastic Container Service (ECS)
 * Elastic Container Registry (ECR)
+* API Gateway
 * SQS
 * Django
 
