@@ -34,7 +34,7 @@ Going elastic:
 2. [Medical Image Segmentation Using 🤗 HuggingFace & PyTorch](https://learnopencv.com/medical-image-segmentation/)
 3. [Enhancing Medical Multi-Label Image Classification Using PyTorch & Lightning](https://learnopencv.com/medical-multi-label/)
 4. [Meet YOLO-NAS: New YOLO Object Detection Model Beats YOLOv6 & YOLOv8](https://learnopencv.com/yolo-nas/)
-5. [Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
+5. [DDPM: Denoising Diffusion Probabilistic Models](https://learnopencv.com/denoising-diffusion-probabilistic-models/)
 6. [Introduction to Diffusion Models for Image Generation – A Comprehensive Guide](https://learnopencv.com/image-generation-using-diffusion-models/)
 7. [The Ultimate Guide to DeepLabv3 – With PyTorch Inference](https://learnopencv.com/deeplabv3-ultimate-guide/)
 8. [YoloR - Paper Explanation & Inference - An In-Depth Analysis](https://learnopencv.com/yolor-paper-explanation-inference-an-in-depth-analysis/)
